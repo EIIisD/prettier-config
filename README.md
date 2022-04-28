@@ -13,5 +13,7 @@ yarn add -D @eiiisd/prettier-config
 Add to `package.json`
 
 ```json
-{ "prettier": "@eiiisd/prettier-config" }
+{
+  "prettier": "@eiiisd/prettier-config"
+}
 ```
