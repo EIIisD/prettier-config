@@ -1,20 +1,17 @@
-# `@eiiisd/prettier-config`
+# @eiiisd/prettier-config
 
-> My personal [Prettier](https://prettier.io) config.
+My personal [Prettier](https://prettier.io) configuration.
 
 ## Usage
 
-**Install**:
+Add as dependency
 
 ```bash
-$ yarn add --dev @eiiisd/prettier-config
+yarn add -D @eiiisd/prettier-config
 ```
 
-**Edit `package.json`**:
+Add to `package.json`
 
-```jsonc
-{
-  // ...
-  "prettier": "@eiiisd/prettier-config"
-}
+```json
+{ "prettier": "@eiiisd/prettier-config" }
 ```
