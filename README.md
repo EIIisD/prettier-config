@@ -1,4 +1,4 @@
-# @eiiisd/prettier-config
+# @eIIisd/prettier-config
 
 My personal [Prettier](https://prettier.io) configuration.
 
