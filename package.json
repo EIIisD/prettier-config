@@ -1,9 +1,9 @@
 {
-  "name": "@eiiisd/eslint-config",
+  "name": "@eiiisd/prettier-config",
   "version": "1.0.0",
-  "description": "My personal esLint config",
+  "description": "My personal prettier config",
   "main": "index.json",
-  "repository": "git@github.com:eiiisd/eslint-config.git",
+  "repository": "git@github.com:eiiisd/prettier-config.git",
   "author": "Ellis Donovan <ellisgdonovan@gmail.com>",
   "license": "MIT"
 }

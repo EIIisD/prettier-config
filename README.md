@@ -1,21 +1,19 @@
 # @eIIisd/prettier-config
 
-My personal esLint configuration.
+My personal prettier configuration.
 
 ## Usage
 
 Add as dependency
 
 ```bash
-yarn add -D @eiiisd/eslint-config
+yarn add -D @eiiisd/prettier-config
 ```
 
 Add to `package.json`
 
 ```json
 {
-  "eslintConfig": {
-    "extends": "@eiiisd/eslint-config"
-  }
+  "prettier": "@eiiisd/prettier-config"
 }
 ```
